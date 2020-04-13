@@ -1,0 +1,41 @@
+state={
+	id=789
+	name="STATE_789"
+	manpower = 2058467
+	
+	state_category = city
+
+	history={
+		owner = HOL
+		victory_points = {
+			241 5 
+		}
+		victory_points = {
+			11360 1
+		}
+		
+		buildings = {
+			infrastructure = 6
+			industrial_complex = 2
+			dockyard = 2
+			fuel_silo = 1
+			241 = {
+				naval_base = 8
+
+			}
+			air_base = 3
+
+		}
+		add_core_of = HOL
+		1939.1.1 = {
+			buildings = {
+				industrial_complex = 4
+				dockyard = 3
+			}
+		}
+	}
+
+	provinces={
+		241 336 9281 11264 11360 
+	}
+}

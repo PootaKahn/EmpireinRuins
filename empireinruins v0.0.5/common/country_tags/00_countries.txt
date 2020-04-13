@@ -1,0 +1,6 @@
+LAP = "countries/Sápmi.txt"
+KUR = "countries/Kurdistan.txt"
+ARP = "countries/Araucanía and Patagonia.txt"
+VAT = "countries/Vatican.txt"
+KAR = "countries/Karelia.txt"
+SAR = "countries/Sarawak.txt"
