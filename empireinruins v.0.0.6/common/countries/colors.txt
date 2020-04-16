@@ -536,6 +536,18 @@ D15 = {
 	color_ui = rgb { 252 182 112 }
 }
 LAP = {
-	color = rgb { { 255  204  204 } }
+	color = rgb { 255  204  204 }
 	color_ui = rgb { 252 229 229 }
 }
+FWS = {
+        color = rgb { 89 134 228 }
+        color_ui = rgb { 74 147 255 }
+}
+FES = {
+        color = rgb { 105 134 228 }
+        color_ui = rgb { 74 147 255 }
+}
+FCA = {
+        color = rgb { 80 110 207 }
+        color_ui = rgb { 74 147 255 }
+}        
