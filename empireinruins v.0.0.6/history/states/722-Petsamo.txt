@@ -1,9 +1,7 @@
+
 state={
 	id=722
 	name="STATE_722"
-	manpower = 2371
-
-	state_category = enclave
 
 	history={
 		owner = LAP
@@ -11,12 +9,18 @@ state={
 			infrastructure = 3
 			9140 = {
 				naval_base = 1
+
 			}
+
 		}
 		add_core_of = LAP
+
 	}
-	
+
 	provinces={
-		6012 6183 9140 11142 
+		22 64 76 103 128 167 203 2992 2995 3016 3040 3069 3082 3097 3158 6012 6015 6061 6079 6092 6107 6142 6183 9042 9064 9089 9116 9128 9140 9191 11034 11063 11077 11104 11115 11130 11142 11169 
 	}
+	manpower=2371
+	buildings_max_level_factor=1.000
+	state_category=enclave
 }

@@ -1,20 +1,18 @@
+
 state={
 	id=56
 	name="STATE_56"
-	manpower = 2058467
-	
-	state_category = city
 
 	history={
-		owner = HOL
+		owner = WPH
 		victory_points = {
 			241 5 
 		}
 		victory_points = {
-			11360 1
+			11360 1 
 		}
 		victory_points = {
-			11388 5
+			11388 5 
 		}
 		buildings = {
 			infrastructure = 6
@@ -28,16 +26,22 @@ state={
 			air_base = 3
 
 		}
-		add_core_of = HOL
+		add_core_of = WPH
 		1939.1.1 = {
 			buildings = {
 				industrial_complex = 4
 				dockyard = 3
+
 			}
+
 		}
+
 	}
 
 	provinces={
-		241 247 309 336 3234 9281 11233 11264 11360 11388 
+		247 309 3234 11233 11388 
 	}
+	manpower=2058467
+	buildings_max_level_factor=1.000
+	state_category=city
 }
