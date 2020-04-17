@@ -90,8 +90,8 @@ NOR = {
 	color_ui = rgb { 144 92 92 }
 }
 DEN = {
-	color = rgb { 153 116 93 }
-	color_ui = rgb { 199 151 121 }
+	color = rgb { 225 26 0 }
+	color_ui = rgb { 225 26 0 }
 }
 BUL = {
 	color = rgb { 51 155 0 }
@@ -550,4 +550,8 @@ FES = {
 FCA = {
         color = rgb { 80 110 207 }
         color_ui = rgb { 74 147 255 }
+}
+DWA = {
+	    color = rgb { 255 70 46 }
+	    color_ui = rgb { 225 26 0 }
 }        
