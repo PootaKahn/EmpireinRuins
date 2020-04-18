@@ -1,6 +1,7 @@
 ﻿capital = 37
 
 puppet = DWA
+puppet = DCA
 
 oob = "DEN_1936"
 if = {
