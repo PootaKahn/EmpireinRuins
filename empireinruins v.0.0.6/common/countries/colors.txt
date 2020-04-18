@@ -572,3 +572,11 @@ OCC = {
         color = rgb { 109 84 128 }
         color_ui = rgb { 109 84 128 }
 }
+DCA = { 
+        color = rgb { 255 93 71 }
+        color_ui = rgb { 225 26 0 }
+}
+BGC = { 
+        color = rgb { 236 29 50 }
+        color_ui = rgb { 206 17 36 }
+}
