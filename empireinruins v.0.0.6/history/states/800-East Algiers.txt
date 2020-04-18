@@ -1,0 +1,29 @@
+state={
+	id=800
+	name="STATE_800"
+        state_category = town
+        resources={
+		steel=18
+	}
+
+	history={
+		owner = ALG
+		add_core_of = ALG
+
+		victory_points = {
+			1145 5 
+		}
+		buildings = {
+			infrastructure = 4
+			air_base = 5
+			1145 = {
+				naval_base = 2
+			}
+		}
+	}
+	provinces={
+		1145 4131 4146 11939 
+	}
+	manpower=1235977
+	buildings_max_level_factor=1.000
+}

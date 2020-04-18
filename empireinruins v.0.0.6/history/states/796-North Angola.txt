@@ -1,21 +1,27 @@
+
 state={
 	id=796
 	name="STATE_796"
+
 	history={
 		owner = RCG
 		buildings = {
 			infrastructure = 1
 			2115 = {
 				naval_base = 1
+
 			}
+
 		}
 		victory_points = {
 			2115 1 
 		}
 		add_core_of = ANG
+
 	}
+
 	provinces={
-		2115 
+		2115 8193 10968 
 	}
 	manpower=25000
 	buildings_max_level_factor=1.000

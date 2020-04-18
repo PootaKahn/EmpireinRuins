@@ -8,6 +8,7 @@ state={
 			
 		}		
 		add_core_of = SIC
+                add_core_of = ITA
 	}
 	provinces={
 		963 3923 3966 6831 
