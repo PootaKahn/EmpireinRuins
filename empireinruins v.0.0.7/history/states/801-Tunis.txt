@@ -1,0 +1,21 @@
+state={
+	id=801
+	name="STATE_801"
+        state_category=city
+        resources={
+	steel=2.000
+	}	
+        
+        history={
+		owner = SRD
+		add_core_of = TUN
+		victory_points = {
+			11969 10 }
+        }
+	
+        provinces={
+		10091 11969 
+	}
+	manpower=793176‬
+	buildings_max_level_factor=1.000
+}
